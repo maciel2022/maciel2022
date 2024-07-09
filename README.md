@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Maciel Alberto Fernandez</h1>
+<h1 align="center">Hola 👋, soy Maciel 😃</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
@@ -6,13 +6,18 @@
        height="400" width="800" />
 </div>
 
-<h3>Sobre mi :smiley:</h3>
+<h3>Sobre mi ⭐:</h3>
+<p>Soy Maciel Alberto Fernandez, desarrollador de softaware 🚀 de Mar del Plata, Buenos Aires, Argentina</p>
 
-- :mortar_board: Técnico en Desarrollo de Software, Técnico en Industria de Procesos
+- 🎓 Técnico en Desarrollo de Software (ISFT 204)
+
+- 🎓 Técnico en Industria de Procesos (EET 3)
 
 - 👨‍💻 Obrserva mi portfolio: [https://macielfernandezportfolio.netlify.app/](https://macielfernandezportfolio.netlify.app/)
 
 - 📫 Contacto: macalbfernandez@gmail.com
+
+- :books: Aprendizaje: Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning
 
 - ⚡ Hobbies: :heart: Amo jugar al fútbol :soccer:, me encanta jugar COD Mobile :gun: 
 
@@ -21,7 +26,7 @@
 - <a href="https://linkedin.com/in/https://www.linkedin.com/in/maciel-fernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maciel-fernandez/" height="20" width="30" /></a>
 - <a href="https://instagram.com/https://www.instagram.com/maciel.fernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maciel.fernandez/" height="20" width="30" /></a>
 
-
+<h3 align="center">Técnologias que uso:</h3>
 
 <h3 align="left">Lenguajes:</h3>
 <p align="left">
@@ -36,7 +41,7 @@
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="45" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="45" height="35"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" color="white"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
