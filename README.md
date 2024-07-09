@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maciel Alberto Fernandez</h1>
 <h3 align="center">Full Stack Developer: Solving problems and creating comprehensive solutions from Argentina</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MarioDev" />
+
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and IA**
 
 - 👨‍💻 All of my projects are available at [https://macielfernandezportfolio.netlify.app/](https://macielfernandezportfolio.netlify.app/)
