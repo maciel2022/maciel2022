@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Maciel Alberto Fernandez</h1>
-<h3 align="center">Full Stack Developer: Solving problems and creating comprehensive solutions from Argentina</h3>
+<h1 align="center">Hola 👋, soy Maciel Alberto Fernandez</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MarioDev" 
        height="400" width="800" />
 </div>
 
-<h3>About me:</h3>
----
+<h3>Sobre mí:</h3>
+<p>---</p>
 
 
 
