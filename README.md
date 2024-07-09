@@ -6,15 +6,9 @@
        height="400" width="800" />
 </div>
 
-<div>
-  <div>
-    <h3>About me:</h3>
-    <p>My name is Maciel, and I am a software developer among other things. I decided to study this profession thanks to my partner and began creating small projects together with her. After finishing my studies, I decided to embark on a professional journey as a web developer. My first job was with one of my professors, where I had the opportunity to work on various projects and gain more experience, from corporate websites to interactive applications. I learned to listen to clients, understand their needs, and transform their ideas into effective digital solutions. I have also had the opportunity to work in other fields and professions, which taught me the importance of teamwork and effective communication. Today, I continue to learn and stay updated with the latest technological trends, exploring new tools and programming languages. My goal is to keep growing as a software developer and contribute to the growth and success of the companies and entrepreneurs I work with.</p>  
-  </div>
-  <div>
-    <h3>Sobre mi:</h3>
-  </div>
-</div>
+<h3>About me:</h3>
+<p>My name is Maciel, and I am a software developer among other things. I decided to study this profession thanks to my partner and began creating small projects together with her. After finishing my studies, I decided to embark on a professional journey as a web developer. My first job was with one of my professors, where I had the opportunity to work on various projects and gain more experience, from corporate websites to interactive applications. I learned to listen to clients, understand their needs, and transform their ideas into effective digital solutions. I have also had the opportunity to work in other fields and professions, which taught me the importance of teamwork and effective communication. Today, I continue to learn and stay updated with the latest technological trends, exploring new tools and programming languages. My goal is to keep growing as a software developer and contribute to the growth and success of the companies and entrepreneurs I work with.</p>  
+
 
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and IA**
