@@ -66,8 +66,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" alt="composer" width="35" height="45"/>  
 </p>
 
+
+
 <!--Footer--> 
-<p align="center" margin-top="20">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
