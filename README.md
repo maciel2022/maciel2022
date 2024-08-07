@@ -18,6 +18,7 @@
 - :books: Aprendizaje:
   * React con Typescript (PERN, MERN)
   * Next.js 14
+  * Laravel 11 +  React
   * Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning
 
 - ⚡ Hobbies: :heart: Amo jugar al fútbol :soccer:, me encanta jugar COD Mobile :gun: 
