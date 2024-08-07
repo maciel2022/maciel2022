@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MarioDev" 
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Dev" 
        height="400" width="800" />
 </div>
 
@@ -13,11 +13,12 @@
 
 - 🎓 Técnico en Industria de Procesos (EET 3)
 
-- 👨‍💻 Obrserva mi portfolio: [https://macielfernandezportfolio.netlify.app/](https://macielfernandezportfolio.netlify.app/)
-
 - 📫 Contacto: macalbfernandez@gmail.com
 
-- :books: Aprendizaje: Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning
+- :books: Aprendizaje:
+  * React con Typescript (PERN, MERN)
+  * Next.js 14
+  * Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning
 
 - ⚡ Hobbies: :heart: Amo jugar al fútbol :soccer:, me encanta jugar COD Mobile :gun: 
 
