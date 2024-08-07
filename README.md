@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Dev" 
-       height="400" width="800" />
+       max-height="400" max-width="800" />
 </div>
 
 <h3>Sobre mi ⭐ About me</h3>
@@ -16,7 +16,7 @@
 - 📫 Contacto || Contact: macalbfernandez@gmail.com
 
 - :books: Aprendizaje || Learning:
-  * React whit Typescript (PERN, MERN)
+  * React with Typescript (PERN, MERN)
   * Next.js 14
   * Laravel 11 +  React
   * Desarrollo de sistemas de IA || AI Systems Development :robot:, Machine Learning y Deep Learning
