@@ -16,7 +16,7 @@
 - 📫 Contacto || Contact: macalbfernandez@gmail.com
 
 - :books: Aprendizaje || Learning:
-  * React: Typescript (PERN, MERN)
+  * React whit Typescript (PERN, MERN)
   * Next.js 14
   * Laravel 11 +  React
   * Desarrollo de sistemas de IA || AI Systems Development :robot:, Machine Learning y Deep Learning
