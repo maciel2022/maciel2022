@@ -21,9 +21,9 @@
   * Laravel 11 +  React
   * Desarrollo de sistemas de IA || AI Systems Development :robot:, Machine Learning y Deep Learning
 
-- ⚡ Hobbies: :heart: Amo jugar al fútbol :soccer:, me encanta jugar COD Mobile :gun: 
+- ⚡ Hobbies: :heart: Amo jugar al fútbol :soccer:, me encanta jugar COD Mobile :gun: || :heart: I love play soccer :soccer: , I love playing COD Mobile. :gun: 
 
-<h3 align="left">Mis redes sociales:</h3>
+<h3 align="left">Mis redes sociales || My social networks:</h3>
 
 - <a href="https://www.linkedin.com/in/maciel-fernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maciel-fernandez/" height="20" width="30" /></a>
 - <a href="https://www.instagram.com/maciel.fernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/maciel.fernandez/" height="20" width="30" /></a>
