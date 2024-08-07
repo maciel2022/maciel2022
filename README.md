@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Maciel 😃</h1>
+<h1 align="center">Hola 👋, soy Maciel 😃  Hi 👋, I'm Maciel</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
@@ -6,20 +6,20 @@
        height="400" width="800" />
 </div>
 
-<h3>Sobre mi ⭐</h3>
-<p>Soy Maciel Alberto Fernandez, desarrollador de softaware 🚀 de Mar del Plata, Buenos Aires, Argentina</p>
+<h3>Sobre mi ⭐ About me</h3>
+<p>Soy Maciel Alberto Fernandez, desarrollador de softaware 🚀 de Mar del Plata, Buenos Aires, Argentina || I am Maciel Alberto Fernandez, a software developer from Mar del Plata, Buenos Aires, Argentina.</p>
 
-- 🎓 Técnico en Desarrollo de Software (ISFT 204)
+- 🎓 Técnico en Desarrollo de Software (ISFT 204) || Software Development Technician (ISFT 204, Mdp, Bs As, Argetina)
 
-- 🎓 Técnico en Industria de Procesos (EET 3)
+- 🎓 Técnico en Industria de Procesos (EET 3) || Process Industry Technician (EET 3, Mdp, Bs As, Argetina)
 
-- 📫 Contacto: macalbfernandez@gmail.com
+- 📫 Contacto || Contact: macalbfernandez@gmail.com
 
-- :books: Aprendizaje:
-  * React con Typescript (PERN, MERN)
+- :books: Aprendizaje || Learning:
+  * React: Typescript (PERN, MERN)
   * Next.js 14
   * Laravel 11 +  React
-  * Desarrollo de sistemas de IA :robot:, Machine Learning y Deep Learning
+  * Desarrollo de sistemas de IA || AI Systems Development :robot:, Machine Learning y Deep Learning
 
 - ⚡ Hobbies: :heart: Amo jugar al fútbol :soccer:, me encanta jugar COD Mobile :gun: 
 
