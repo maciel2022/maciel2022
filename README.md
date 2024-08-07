@@ -7,7 +7,7 @@
 </div>
 
 <h3>Sobre mi ⭐ About me</h3>
-<p>Soy Maciel Alberto Fernandez, desarrollador de softaware 🚀 de Mar del Plata, Buenos Aires, Argentina || I am Maciel Alberto Fernandez, a software developer from Mar del Plata, Buenos Aires, Argentina.</p>
+<p>Soy Maciel Alberto Fernandez, desarrollador de softaware 🚀 de Mar del Plata, Buenos Aires, Argentina || I am Maciel Alberto Fernandez, a software developer 🚀 from Mar del Plata, Buenos Aires, Argentina.</p>
 
 - 🎓 Técnico en Desarrollo de Software (ISFT 204) || Software Development Technician (ISFT 204, Mdp, Bs As, Argetina)
 
